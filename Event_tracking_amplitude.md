@@ -31,7 +31,7 @@ Topics explored:
 - Cohorts
 - Dashboard creation
 
-![Amplitude Overview](images/image_4.png)
+![Amplitude Overview](Images/image_4.png)
 
 ---
 
@@ -57,7 +57,7 @@ Examples included:
 - shipment exploration
 - citation views
 
-![Event Taxonomy](images/image_5.png)
+![Event Taxonomy](Images/image_5.png)
 
 ### Key Takeaways
 
@@ -81,7 +81,7 @@ Implementation included:
 
 AI-assisted development was used to accelerate implementation while manually reviewing and validating the integration.
 
-![Amplitude Integration](images/image_9.png)
+![Amplitude Integration](Images/image_9.png)
 
 ### Concepts Learned
 
@@ -107,7 +107,7 @@ Validation included:
 
 Developer tools were used to inspect requests generated during user interactions.
 
-![Network Validation](images/image_7.png)
+![Network Validation](Images/image_7.png)
 
 ---
 
@@ -123,7 +123,7 @@ Activities included:
 - filtering internal users
 - understanding event trends over time
 
-![Segmentation Dashboard](images/image_6.png)
+![Segmentation Dashboard](Images/image_6.png)
 
 ### Concepts Learned
 
@@ -146,7 +146,7 @@ This demonstrated how behavioral groups can later be reused for:
 - feature analysis
 - product adoption tracking
 
-![Cohorts](images/image_8.png)
+![Cohorts](Images/image_8.png)
 
 ---
 
