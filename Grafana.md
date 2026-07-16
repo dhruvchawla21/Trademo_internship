@@ -1,6 +1,6 @@
 # Grafana Dashboards
 
-![alt text](images/image_1.png)
+![alt text](Images/image_1.png)
 
 Notes from building and iterating on an analytics dashboard in Grafana, backed by PostgreSQL.
 
@@ -16,7 +16,7 @@ A typical usage-analytics dashboard has three layers:
 
 Grafana's global time-range picker doubles as the DAU/WAU/MAU control — no need for separate cards per window. Set the picker to "Last 1 day" / "Last 7 days" / "Last 30 days" and the same query answers all three.
 
-![alt text](images/image_2.png)
+![alt text](Images/image_2.png)
 
 ---
 
@@ -141,7 +141,7 @@ On sparse, bursty data, it can backfire — zoomed out to a week, Grafana might 
 
 For a stable, always-readable trend regardless of zoom, hardcode a fixed bucket (`'1d'`, `'12h'`, whatever fits the data density). For adaptive resolution with a floor, set a Min interval on the query (e.g. `1h`) so it never buckets finer than that.
 
-![alt text](images/image_3.png)
+![alt text](Images/image_3.png)
 
 ---
 
